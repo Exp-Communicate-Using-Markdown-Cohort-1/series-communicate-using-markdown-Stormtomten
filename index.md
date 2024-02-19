@@ -16,3 +16,10 @@ $ git add .
 Adds all files in the repository, not in the .gitignore list, to the staging area.
 ```
 Grammar much?
+
+## To do, or not to do
+- [ ] Make a task list
+- [ ] That's interesting
+- [ ] It makes new tasks automatically.
+- [ ] -.-
+
